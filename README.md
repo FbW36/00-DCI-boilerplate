@@ -21,7 +21,7 @@ To learn more about how to add bootstrap javascript features (for modals and ima
 1. Clone this repository into a new project folder (replace `[project name]` with your project's name)
 
    ```
-   git clone git@github.com:DigitalCareerInstitute/dci-boilerplate-I.git [project name]
+   git clone git@github.com:fbw-28/00-DCI-boilerplate.git [project name]
    ```
 
 1. Delete the boilerplate's git history to ensure that the project history only includes your commits
